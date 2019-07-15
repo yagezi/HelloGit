@@ -1,2 +1,2 @@
 # HelloGit
-A hello world project to github
+A hello world project to git & github
